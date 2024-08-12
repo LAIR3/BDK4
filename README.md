@@ -1,6 +1,6 @@
 <a href="https://docs.polygon.technology/cdk"Polygon CDK documentation</a>
 
-A [Kurtosis](https://github.com/kurtosis-tech/kurtosis) package that deploys a private, portable, and modular Polygon CDK devnet.
+A [Kurtosis](https://github.com/kurtosis-tech/kurtosis) package that deploys a private, portable, and modular blockchain devnet
 
 ## Getting Started
 
